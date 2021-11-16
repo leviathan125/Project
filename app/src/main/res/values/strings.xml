@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Reach</string>
+    <string name="home_name">Welcome</string>
+    <string name="attendance_name">Attendance</string>
+    <string name="events_name">Events</string>
+    <string name="prayer_requests_name">Prayer Requests</string>
+    <string name="locations_name">Locations</string>
+    <string name="contact_us_name">Contact Us</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="contact_description_hint">Enter questions/comments/concerns</string>
+    <string name="submit_button">Submit</string>
+    <string name="prayer_requests_hint">Enter Prayer Request!</string>
+    <string name="tithe_activity">Tithes</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="tithing">Tithes</string>
+    <string name="donations">Donations</string>
+    <string name="other">Other</string>
+    <string name="payments">Payments</string>
+    <string name="pay_button">Pay</string>
+</resources>
